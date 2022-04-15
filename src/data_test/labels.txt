@@ -1,0 +1,6 @@
+test_0.png:0
+test_1.png:0
+test_2.png:1
+test_3.png:1
+test_4.png:1
+test_5.png:0
